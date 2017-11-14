@@ -65,7 +65,7 @@ p {
     background-color:#282e3e;
     color:#fff;
     border-radius:0px;
-    padding:10px;
+    padding:4px;
 }
 
 .navbar-custom .navbar-nav>li>a
@@ -267,7 +267,7 @@ p {
     .aboutus {
         
         padding: 30px;
-        height: 750px;
+        height: 820px;
     }
     
     .aboutus img {
